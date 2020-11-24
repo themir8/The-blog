@@ -1,3 +1,3 @@
 # The-blog
-Python + JavaScript fullstack course for beginners.<br>
+<b>Python + JavaScript fullstack course for beginners.</b><br>
 Tg channel: https://t.me/theblog_uz
